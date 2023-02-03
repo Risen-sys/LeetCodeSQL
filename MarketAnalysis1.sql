@@ -1,3 +1,5 @@
+--Matthew Silbernagel
+
 SELECT  Users.user_id AS buyer_id
        ,Users.join_date
        ,COUNT(case WHEN year(order_date) = 2019 THEN 1 end) AS orders_in_2019
