@@ -1,3 +1,5 @@
+--Matthew Silbernagel--
+
 Select department.name as Department
         , Employee.name as Employee
         , Employee.Salary as Salary
