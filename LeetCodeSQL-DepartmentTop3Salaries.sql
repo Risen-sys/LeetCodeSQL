@@ -1,3 +1,4 @@
+--Matthew Silbernagel
 SELECT  department.name    AS Department
        ,employee1.name   AS Employee
        ,employee1.salary AS Salary
